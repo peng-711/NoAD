@@ -8,6 +8,10 @@
 @@||securepubads.g.doubleclick.net^
 @@||fls-na.amazon.com^
 @@||quantserve.com^
+@@||app-measurement.com^
+@@||lap-click.tr.line.me^
+@@||securemvt.apple.com^
+@@||appleglobal.102.112.2o7.net^
 @@||securemetrics.apple.com^
 @@||mobile.pipe.aria.microsoft.com^
 @@||awstrack.me^
