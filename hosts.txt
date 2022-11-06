@@ -1,6 +1,6 @@
 ! Title: NoAD
 ! Homepage: https://github.com/peng-711/NoAD
-! Last modified: 2022-11-4
+! Last modified: 2022-11-6
 
 @@||s.youtube.com^
 @@||googletagmanager.com^
@@ -21,6 +21,9 @@
 @@||enigmasoftware.com^
 @@||analytics.twitter.com^
 @@||google-analytics.com^
+@@||*.applvn.com^
+@@||*.applovin.com^
+@@||*.unityads.unity3d.com^
 
 
 /tw.{3}gov\.com/
@@ -201,6 +204,9 @@
 ||gilimp.org^
 ||gimp.monster^
 ||appsettings.apalon.com^
+||bitcores688.com^
+||coinusdt66.com^
+||aexpro.net^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
