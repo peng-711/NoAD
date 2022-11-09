@@ -28,6 +28,8 @@
 @@||*.applvn.com^
 @@||*.applovin.com^
 @@||*.unityads.unity3d.com^
+@@||ovh.commander1.com^
+@@||eu.spgo.io^
 
 
 /tw.{3}gov\.com/
