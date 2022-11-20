@@ -1,6 +1,6 @@
 ! Title: NoAD
 ! Homepage: https://github.com/peng-711/NoAD
-! Last modified: 2022-11-16
+! Last modified: 2022-11-20
 
 @@||s.youtube.com^
 @@||googletagmanager.com^
@@ -30,6 +30,8 @@
 @@||*.unityads.unity3d.com^
 @@||ovh.commander1.com^
 @@||eu.spgo.io^
+@@||ws.tapjoyads.com^
+@@||*.supersonicads.com^
 
 
 /tw.{3}gov\.com/
@@ -226,6 +228,17 @@
 ||tqo𝗆𝗓.com^
 ||00000255123135324.ml^
 ||26335.cn^
+||atwilling.top^
+||gjjywz.com^
+||0b9wedab0w.lol^
+||zh5599.cyou^
+||gaynorkennedycup.ie^
+||tw-potn.com^
+||asia-target.com^
+||gbm756.com^
+||nstwmarket.com^
+||nvexia.vip^
+||kgi588.com^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
@@ -768,3 +781,81 @@
 ||weblexs.com^
 ||fnglc.com^
 ||zbwhc.vip^
+||bejgnrk.top^
+||nvjtheyquwy.com^
+||jrqbndnqn.com^
+||oyster666.top^
+||fungo24pc.com^
+||flyjanes.com^
+||nvevbg.top^
+||capitalgls.com^
+||muhgteszascoin.com^
+||nctexcoin.com^
+||dsdnsbfemqsad.com^
+||bitmexx02.com^
+||superviamt.com^
+||nardtrade.com^
+||mbgoo.com^
+||gacllo.com^
+||ethq.github.io^
+||acrondwss.com^
+||moxcfn.com^
+||bboilyf.com^
+||ugnrjgmr.tw^
+||theflowstockexchange.com^
+||apexcoins.club^
+||weab223.com^
+||bigvipokk.com^
+||sdfgeh.com^
+||wzmgvvrszyvwcpub.com^
+||metaverse-financemax.com^
+||cskkingss.com^
+||mexa-inv.one^
+||wns5158.cc^
+||buyergomomo.com^
+||appk31245.xyz^
+||jnvenqnda.com^
+||easytok3.com^
+||alksg.com^
+||amz-5.com^
+||gdexio.net^
+||kinfungmkt.com^
+||seashop99.com^
+||fxcap99.com^
+||frubit.co^
+||ruvnrjg.top^
+||dajdew.com^
+||tronskb.com^
+||mall-lazada.com^
+||exweex.com^
+||bcetx.cc^
+||defincv.com^
+||hippo-tesc.com^
+||speedstar.site^
+||meiqiaotw.xyz^
+||shiimikr.com^
+||zw585.com^
+||nexquotations.com^
+||chjasfebsa.com^
+||trading-ebay.com^
+||busskin.com^
+||touhes.com^
+||gtznycq.top^
+||jfygshop.com^
+||tm-group-inc.com^
+||gintfim168.com^
+||bing-bon.xyz^
+||bellagio.work^
+||tk55.shop^
+||fx-athenafx.com^
+||smnhus.com^
+||avisxcrypto.com^
+||huobix.net^
+||avax-tradeplus.com^
+||hrhhs.com^
+||gnrhhqjwekj.com^
+||wayteciysoe.com^
+||zh3459.cyou^
+||yasenfinancial.live^
+||gatepro.top^
+||searsp.com^
