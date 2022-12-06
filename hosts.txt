@@ -1,6 +1,6 @@
 ! Title: NoAD
 ! Homepage: https://github.com/peng-711/NoAD
-! Last modified: 2022-11-20
+! Last modified: 2022-12-06
 
 @@||s.youtube.com^
 @@||googletagmanager.com^
@@ -25,13 +25,8 @@
 @@||enigmasoftware.com^
 @@||analytics.twitter.com^
 @@||google-analytics.com^
-@@||*.applvn.com^
-@@||*.applovin.com^
-@@||*.unityads.unity3d.com^
 @@||ovh.commander1.com^
 @@||eu.spgo.io^
-@@||ws.tapjoyads.com^
-@@||*.supersonicads.com^
 @@||wl.spotify.com^
 
 
@@ -249,6 +244,16 @@
 ||bitrue.finance^
 ||line-store-taiwan-pay.com^
 ||llzbfw.com^
+||suningshop.net^
+||amz-best.com^
+||7-11-com.vip^
+||outlet.win^
+||tysq.club^
+||karousell.com^
+||yopixcart.com^
+||shrtm.nu^
+||tw-sh0pee.vip^
+||aachain.club^
 
 
 ! 內政部警政署 165 全民防騙網  https://165.npa.gov.tw
@@ -931,3 +936,57 @@
 ||bitsetc.net^
 ||onesevenplayy.com^
 ||fenfa.me^
+||gtnnsjqekh.com^
+||buyamzz.com^
+||spoewame.com^
+||busjeo.com^
+||tiktokom.com^
+||funtogopc24.com^
+||flowextrade.com^
+||natcfx.com^
+||mhrc.tw^
+||zbaooo8588.com^
+||meiqtw.xyz^
+||okxxvip.com^
+||hnbk.xyz^
+||dejhq.com^
+||mestta.com^
+||bdgvip.com^
+||defikrb.com^
+||starlux.mobi^
+||app33007.top^
+||yasenfinancial.site^
+||expresstw.com^
+||bais906.club^
+||nftpess.com^
+||aicmks.com^
+||brk.skin^
+||wayteciyes.com^
+||btminza.com^
+||bing-bon.online^
+||daietherfinance.com^
+||applettwts.com^
+||vrnjwqjshbak.com^
+||eexmarket.cc^
+||sdag-ex.xyz^
+||tivcm.com^
+||kgnjdnsdnaw.com^
+||nyse10.top^
+||wnsr58888.live^
+||fxpros.vip^
+||genesk.com^
+||lehinsecurities.com^
+||fxvghdgxc.com^
+||bitfarmes.com^
+||exlbnk.com^
+||ttuokeglobal.com^
+||aocnej.tw^
+||metas-trust.club^
+||me006.com^
+||fazhanjijin.live^
+||richenatets.com^
+||bellagio.world^
+||witsfin.online^
+||obercoin.com^
+||bikinge.vip^
+||letan168.com^
