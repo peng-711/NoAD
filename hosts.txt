@@ -82,6 +82,7 @@
 ||edition-eltern.com^
 ||bnfallshop.com^
 ||appshops.xyz^
+||captchafair.top^
 
 
 
